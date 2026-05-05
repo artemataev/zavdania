@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\menegervitrat.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\menegervitrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\menegervitrat.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\menegervitrat.AssemblyInfo.cs
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\menegervitrat.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\menegervitrat.sourcelink.json
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\ExpenseManager.Form1.resources
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\bin\Debug\net8.0-windows\menegervitrat.exe
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\bin\Debug\net8.0-windows\menegervitrat.deps.json
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\bin\Debug\net8.0-windows\menegervitrat.runtimeconfig.json
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\bin\Debug\net8.0-windows\menegervitrat.dll
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\bin\Debug\net8.0-windows\menegervitrat.pdb
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\menegervitrat.dll
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\refint\menegervitrat.dll
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\menegervitrat.pdb
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\menegervitrat.genruntimeconfig.cache
+C:\Users\Student\source\repos\Chernyshevsky4545\plkpiinformatik\2004\menegervitrat\menegervitrat\obj\Debug\net8.0-windows\ref\menegervitrat.dll
